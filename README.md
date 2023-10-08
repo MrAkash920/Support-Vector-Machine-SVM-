@@ -57,7 +57,5 @@ Check out some of our example notebooks:
 ## Contributing
 We welcome contributions from the community. Whether it's improving documentation, adding new examples, or fixing bugs, your contributions are valuable. Please review our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get started.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to star this repository if you find it useful, and don't hesitate to raise issues or submit pull requests. Happy SVM-ing! 🚀
